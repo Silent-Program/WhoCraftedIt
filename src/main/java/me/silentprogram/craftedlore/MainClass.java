@@ -22,7 +22,7 @@ public class MainClass extends JavaPlugin {
         Bukkit.getServer().getPluginManager().registerEvents(listeners, this);
     }
     public void onDisable(){
-    
+
     }
     public String checkMessage(String msg, Player plr, Location loc, ItemStack item) {
         int locX = (int) loc.getX();
