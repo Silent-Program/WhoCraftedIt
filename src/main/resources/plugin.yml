@@ -1,0 +1,6 @@
+main: me.silentprogram.craftedlore.MainClass
+name: WhoCraftIt
+description: Adds who crafted lore.
+version: 1.0.1
+author: Silent Program
+api-version: 1.17

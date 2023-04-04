@@ -1,0 +1,13 @@
+#You may use these placeholders.
+# %player% Gets players username.
+# %location% Gets players location.
+# %item% Gets item type.
+# %amount% Gets amount.
+craftedmessage:
+  - ""
+  - "Crafted by: %player%."
+
+enableblocks: false
+
+blocks:
+  - "CRAFTING_TABLE"
